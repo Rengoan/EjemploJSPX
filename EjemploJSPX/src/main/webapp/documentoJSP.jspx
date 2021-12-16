@@ -26,9 +26,6 @@
             </body>
         </html>
 
-    <jsp:element name="text">
-        <jsp:attribute name="lang">EN</jsp:attribute>
-        <jsp:body>Hello World!</jsp:body>
-    </jsp:element>
+   
 
 </jsp:root>
